@@ -247,7 +247,7 @@ button.MouseButton1Click:Connect(function()
 				if v:IsA("BasePart") and v.CFrame.x == math.floor(e) and v.CFrame.z == math.floor(g) then
 					SetName(v,"Sky")
 					AddMesh(v)
-					SetMesh(v,"8006679977")
+					SetMesh(v,"119191319324524")
 					SetTexture(v,id)
 					MeshResize(v,Vector3.new(50,50,50))
 					SetLocked(v,true)
