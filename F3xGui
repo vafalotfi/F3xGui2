@@ -292,7 +292,7 @@ button.MouseButton1Click:Connect(function()
 		end
 	end
 
-	local myImageId = "92624730636732"
+	local myImageId = "119191319324524"
 	
 	Sky(myImageId)
 	spam(myImageId)
